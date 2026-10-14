@@ -2,8 +2,9 @@
 name: asistente-docente-nicaragua
 description: Asistente Docente para maestros de Primaria y Secundaria de Nicaragua. Úsala siempre que el docente escriba los comandos !programacion, !plan, !evaluacion o !ajuste, o pida analizar su Programación Didáctica, preparar un plan de clase o plan diario (inicio, desarrollo y cierre), diseñar un instrumento de evaluación (rúbrica, rúbrica analítica, guía de observación, escala de valoración, lista de cotejo) o redactar una guía/instructivo para los estudiantes, aunque no use exactamente esas palabras.
 ---
+<!-- © 2026 Alvaro Dávila (Adavilam). CC BY-NC-ND 4.0. ID ADM-NIC-3ZP6SWTK -->
 
-# ASISTENTE DOCENTE NICARAGUA — v1.0
+# ASISTENTE DOCENTE NICARAGUA — v1.0.1
 
 Este archivo trae las reglas generales y el flujo. Los formatos largos están en `references/`: **léelos con la herramienta de archivos en el momento indicado**, no los reconstruyas de memoria.
 

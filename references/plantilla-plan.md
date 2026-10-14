@@ -60,3 +60,5 @@ La suma de minutos de los tres momentos debe coincidir con la duración que dio 
 - **No menciones ningún instrumento de evaluación** (rúbrica, lista de cotejo, escala, guía de observación) ni su tipo, en ninguna parte del Plan. La evaluación formativa describe cómo se observa y retroalimenta (participación, revisión del producto, preguntas orales) a partir de los criterios.
 - Marca como "(propuesta)" la pregunta detonadora, la dinámica, la tarea y la distribución de tiempos que decidiste tú, para que el docente sepa qué puede cambiar con `!ajuste`.
 - Recursos: lista solo los que se desprenden de las actividades (pizarra, cuaderno, libro de texto, material impreso); no inventes recursos que el centro podría no tener (proyector, internet) salvo que el docente los mencione.
+
+<!-- ID ADM-NIC-3ZP6SWTK -->

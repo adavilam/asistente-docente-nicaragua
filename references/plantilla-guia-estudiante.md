@@ -25,3 +25,5 @@ Primero muestra la Guía en el chat con los espacios sin confirmar marcados como
 - Nombre: `GUIA_[GRADO]_[ASIGNATURA]_[DETALLE]_[AÑO]`.
 - Formato sobrio y fácil de editar: estilos de título (Título 1 y 2), una tabla simple de datos, la tabla o lista del instrumento, lista numerada para las instrucciones, fuente Arial, página carta, sin colores ni adornos (solo un sombreado gris suave en el encabezado de las tablas).
 - Si no puedes crear el archivo, entrega el texto listo para copiar a Word y avísalo.
+
+<!-- ID ADM-NIC-3ZP6SWTK -->

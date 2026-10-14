@@ -14,7 +14,7 @@ No envía nada a ningún sistema ni pide correos: todo queda en tu conversación
 
 📘 **Guía paso a paso: [INSTALACION.md](INSTALACION.md)**. Resumen:
 
-Descarga el archivo `asistente-docente-nicaragua.zip` de la sección **Releases** de este repositorio.
+Descarga el archivo `asistente-docente-nicaragua.zip` de la sección **Releases** de este repositorio. Para comprobar que no fue modificado, compara su huella SHA-256 con la de [HASHES.md](HASHES.md).
 
 **Gemini (cuenta personal de Gmail):** Personalizar → Habilidades → Crear → sube la carpeta completa `asistente-docente-nicaragua` (con su subcarpeta `references`).
 

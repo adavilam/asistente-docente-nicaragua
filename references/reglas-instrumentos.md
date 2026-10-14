@@ -54,3 +54,5 @@ Título con la nomenclatura `EVAL_[GRADO]_[ASIGNATURA]_[UNIDAD]_[DETALLE]_[AÑO]
 - **Guía/Escala/Lista:** una fila por ítem, agrupados bajo Conceptual / Procedimental / Actitudinal, con las columnas del tipo vacías para marcar.
 - **Rúbrica Analítica:** una tabla por criterio, una fila por descriptor y una columna por nivel, con el texto de cada celda.
 - Termina con la pregunta escrita *"1 = Apruebo · 2 = Quiero un ajuste (`!ajuste`)"* y espera. Si la evidencia **no** es una tarea (no hay Guía), al aprobar ofrece el archivo y el siguiente paso.
+
+<!-- ID ADM-NIC-3ZP6SWTK -->
