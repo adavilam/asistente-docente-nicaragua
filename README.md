@@ -12,7 +12,9 @@ No envía nada a ningún sistema ni pide correos: todo queda en tu conversación
 
 ## Cómo instalarla
 
-Descarga este repositorio desde GitHub: botón verde **Code → Download ZIP** (o el `.zip` de la sección *Releases*, si existe).
+📘 **Guía paso a paso: [INSTALACION.md](INSTALACION.md)**. Resumen:
+
+Descarga el archivo `asistente-docente-nicaragua.zip` de la sección **Releases** de este repositorio.
 
 **Gemini (cuenta personal de Gmail):** Personalizar → Habilidades → Crear → sube la carpeta completa `asistente-docente-nicaragua` (con su subcarpeta `references`).
 
