@@ -43,7 +43,7 @@ Esta Skill nació en el **Colegio Hogar Paulo VI**, donde se usa desde 2026 en s
 - **Portal de resultados** para estudiantes y familias ("Mi Progreso"), y seguimiento de Dirección y Coordinación.
 - **Sincronización con Google Classroom** (en piloto).
 
-**¿Tu colegio quiere implementar AppRubric?** Esta Skill es solo la puerta de entrada: la gestión completa de evaluación del colegio está en AppRubric. Para conversar sobre una implementación, abre un *Issue* en este repositorio con el título "Quiero implementar AppRubric".
+**¿Tu colegio quiere implementar AppRubric?** Esta Skill es solo la puerta de entrada: la gestión completa de evaluación del colegio está en AppRubric. Para conversar sobre una implementación, escribe a **adavilam@gmail.com** con el asunto "Quiero implementar AppRubric", o abre un *Issue* en este repositorio con ese título.
 
 ## Autoría
 
@@ -62,4 +62,4 @@ Creada por **Alvaro Dávila (Adavilam)**, 2026. © Todos los derechos reservados
 - Incluirla en otro producto, servicio o plataforma.
 - Cualquier uso comercial.
 
-Para pedir una autorización, abre un *Issue* en este repositorio. El texto completo está en el archivo `LICENSE`.
+Para pedir una autorización, escribe a **adavilam@gmail.com** o abre un *Issue* en este repositorio. El texto completo está en el archivo `LICENSE`.
